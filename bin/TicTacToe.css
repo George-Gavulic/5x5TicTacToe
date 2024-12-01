@@ -1,0 +1,8 @@
+.button:hover{
+    -fx-background-color: #afafaf;
+
+} 
+
+#apAnchorPlane{
+    -fx-background-color: #f26b6b;
+}
